@@ -1,0 +1,25 @@
+{
+  "name": "faculty",
+  "version": "1.0.0",
+  "description": "calculates the faculty of a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theUpsider/Faculty.git"
+  },
+  "keywords": [
+    "faculty",
+    "factorial",
+    "math",
+    "npm"
+  ],
+  "author": "David Fischer, Philipp Geirhos, Julian Manz, Markus Heck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theUpsider/Faculty/issues"
+  },
+  "homepage": "https://github.com/theUpsider/Faculty#readme"
+}
