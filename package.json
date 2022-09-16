@@ -1,7 +1,13 @@
 {
   "name": "faculty",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "calculates the faculty of a number",
+  "author": "David Fischer",
+  "contributors": [
+    "Philipp Geirhos",
+    "Julian Manz",
+    "Markus Heck"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +22,6 @@
     "math",
     "npm"
   ],
-  "author": "David Fischer, Philipp Geirhos, Julian Manz, Markus Heck",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/theUpsider/Faculty/issues"
