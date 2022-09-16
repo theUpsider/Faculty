@@ -1,6 +1,6 @@
 {
   "name": "faculty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculates the faculty of a number",
   "main": "index.js",
   "scripts": {
