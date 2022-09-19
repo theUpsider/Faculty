@@ -11,12 +11,17 @@ $ npm install --save faculty
 ```
 
 ## Why is this needed?
+
 The original math js library does not have a faculty function. Hence this repo.
 
 ## Usage
 
 ```js
-const faculty = require('faculty');
+const faculty = require("faculty");
 
-faculty(6)
+faculty(6);
 ```
+
+## Support
+
+[Buy me a coffe, highly appreciated 🙌](https://www.buymeacoffee.com/theupsider)
